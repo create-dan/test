@@ -1,5 +1,0 @@
-{{#user}}
-Name: Dnyaneshwar
-Skills: HTML, CSS, JS, Reactjs , Nodejs,Expressjs
-Email: dnyaneshwars0611@gmail.com
-{{/user}}
